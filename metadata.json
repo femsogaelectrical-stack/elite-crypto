@@ -1,0 +1,6 @@
+{
+  "name": "Elite Crypto & Multi-Asset Platform",
+  "description": "A modern, high-converting landing page for an elite crypto and multi-asset trading and investment platform with live prices, investment plans, and interactive trackers.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
