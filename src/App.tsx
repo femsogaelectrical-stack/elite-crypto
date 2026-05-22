@@ -46,7 +46,7 @@ export default function App() {
   const [mobileMenuOpen, setMobileMenuOpen] = useState(false);
 
   // Exact generated path from the image generation step
-  const HERO_IMAGE_URL = '/src/assets/images/gold_crypto_coin_1779463114275.png';
+  const HERO_IMAGE_URL = '/images/gold_crypto_coin_1779463114275.png';
 
   // Periodically simulate external transaction actions to make ledger alive
   useEffect(() => {
